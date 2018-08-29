@@ -1,0 +1,14 @@
+h1 {
+    font-family: "Langdon";
+    font-size: 50px;
+    color: red;
+}
+
+.veggie {
+    color: green;
+    font-size: 15px;
+}
+
+#first-item {
+    border-top: solid grey;
+}
